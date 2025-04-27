@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{919FFF0D-0EEC-4D7A-A071-088A0A76CFFA}|..\\ExternalUserService.Tests\\ExternalUserService.Tests.csproj|c:\\users\\earld\\onedrive\\desktop\\ed\\assignment\\externaluserservice.tests\\services\\externaluserservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|c:\\users\\earld\\onedrive\\desktop\\ed\\assignment\\externaluserservice\\services\\iexternaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|solutionrelative:services\\iexternaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|c:\\users\\earld\\onedrive\\desktop\\ed\\assignment\\externaluserservice\\services\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|solutionrelative:services\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|c:\\users\\earld\\onedrive\\desktop\\ed\\assignment\\externaluserservice\\clients\\ireqresapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|solutionrelative:clients\\ireqresapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|c:\\users\\earld\\onedrive\\desktop\\ed\\assignment\\externaluserservice\\externaluserservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|solutionrelative:externaluserservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062E1AD2-F293-457C-9B3D-63D097858B45}|..\\ExternalUserService.Demo\\ExternalUserService.Demo.csproj|c:\\users\\earld\\onedrive\\desktop\\ed\\assignment\\externaluserservice.demo\\externaluserservice.demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919FFF0D-0EEC-4D7A-A071-088A0A76CFFA}|..\\ExternalUserService.Tests\\ExternalUserService.Tests.csproj|c:\\users\\earld\\onedrive\\desktop\\ed\\assignment\\externaluserservice.tests\\clients\\reqresapiclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062E1AD2-F293-457C-9B3D-63D097858B45}|..\\ExternalUserService.Demo\\ExternalUserService.Demo.csproj|c:\\users\\earld\\onedrive\\desktop\\ed\\assignment\\externaluserservice.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919FFF0D-0EEC-4D7A-A071-088A0A76CFFA}|..\\ExternalUserService.Tests\\ExternalUserService.Tests.csproj|c:\\users\\earld\\onedrive\\desktop\\ed\\assignment\\externaluserservice.tests\\externaluserservice.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|c:\\users\\earld\\onedrive\\desktop\\ed\\assignment\\externaluserservice\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|solutionrelative:models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|c:\\users\\earld\\onedrive\\desktop\\ed\\assignment\\externaluserservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|c:\\users\\earld\\onedrive\\desktop\\ed\\assignment\\externaluserservice\\options\\reqresapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|solutionrelative:options\\reqresapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062E1AD2-F293-457C-9B3D-63D097858B45}|..\\ExternalUserService.Demo\\ExternalUserService.Demo.csproj|c:\\users\\earld\\onedrive\\desktop\\ed\\assignment\\externaluserservice.demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|c:\\users\\earld\\onedrive\\desktop\\ed\\assignment\\externaluserservice\\externaluserservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|solutionrelative:externaluserservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|c:\\users\\earld\\onedrive\\desktop\\ed\\assignment\\externaluserservice\\clients\\reqresapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|solutionrelative:clients\\reqresapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|c:\\users\\earld\\onedrive\\desktop\\ed\\assignment\\externaluserservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBD9379-4105-43CC-9896-81701EAB0461}|ExternalUserService.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:39:02.497Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExternalUserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService.Tests\\Services\\ExternalUserServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\ExternalUserService.Tests\\Services\\ExternalUserServiceTests.cs",
+              "ToolTip": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService.Tests\\Services\\ExternalUserServiceTests.cs*",
+              "RelativeToolTip": "..\\ExternalUserService.Tests\\Services\\ExternalUserServiceTests.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T13:43:03.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExternalUserService",
+              "DocumentMoniker": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\ExternalUserService.csproj",
+              "RelativeDocumentMoniker": "ExternalUserService.csproj",
+              "ToolTip": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\ExternalUserService.csproj",
+              "RelativeToolTip": "ExternalUserService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T13:36:42.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExternalUserService.Demo",
+              "DocumentMoniker": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService.Demo\\ExternalUserService.Demo.csproj",
+              "RelativeDocumentMoniker": "..\\ExternalUserService.Demo\\ExternalUserService.Demo.csproj",
+              "ToolTip": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService.Demo\\ExternalUserService.Demo.csproj",
+              "RelativeToolTip": "..\\ExternalUserService.Demo\\ExternalUserService.Demo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T13:36:34.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReqResApiClientTests.cs",
+              "DocumentMoniker": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService.Tests\\Clients\\ReqResApiClientTests.cs",
+              "RelativeDocumentMoniker": "..\\ExternalUserService.Tests\\Clients\\ReqResApiClientTests.cs",
+              "ToolTip": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService.Tests\\Clients\\ReqResApiClientTests.cs",
+              "RelativeToolTip": "..\\ExternalUserService.Tests\\Clients\\ReqResApiClientTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T13:30:49.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService.Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ExternalUserService.Demo\\appsettings.json",
+              "ToolTip": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService.Demo\\appsettings.json",
+              "RelativeToolTip": "..\\ExternalUserService.Demo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T12:51:44.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService.Demo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ExternalUserService.Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService.Demo\\Program.cs",
+              "RelativeToolTip": "..\\ExternalUserService.Demo\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:50:27.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReqResApiOptions.cs",
+              "DocumentMoniker": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\Options\\ReqResApiOptions.cs",
+              "RelativeDocumentMoniker": "Options\\ReqResApiOptions.cs",
+              "ToolTip": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\Options\\ReqResApiOptions.cs",
+              "RelativeToolTip": "Options\\ReqResApiOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:47:17.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExternalUserService",
+              "DocumentMoniker": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\ExternalUserService.csproj",
+              "RelativeDocumentMoniker": "ExternalUserService.csproj",
+              "ToolTip": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\ExternalUserService.csproj",
+              "RelativeToolTip": "ExternalUserService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T12:41:58.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IExternalUserService.cs",
+              "DocumentMoniker": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\Services\\IExternalUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IExternalUserService.cs",
+              "ToolTip": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\Services\\IExternalUserService.cs",
+              "RelativeToolTip": "Services\\IExternalUserService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAD4vwwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:23:07.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExternalUserService.cs",
+              "DocumentMoniker": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\Services\\ExternalUserService.cs",
+              "RelativeDocumentMoniker": "Services\\ExternalUserService.cs",
+              "ToolTip": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\Services\\ExternalUserService.cs",
+              "RelativeToolTip": "Services\\ExternalUserService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAApwBQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:22:39.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReqResApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\Clients\\ReqResApiClient.cs",
+              "RelativeDocumentMoniker": "Clients\\ReqResApiClient.cs",
+              "ToolTip": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\Clients\\ReqResApiClient.cs",
+              "RelativeToolTip": "Clients\\ReqResApiClient.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:12:01.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReqResApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\Clients\\IReqResApiClient.cs",
+              "RelativeDocumentMoniker": "Clients\\IReqResApiClient.cs",
+              "ToolTip": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\Clients\\IReqResApiClient.cs*",
+              "RelativeToolTip": "Clients\\IReqResApiClient.cs*",
+              "ViewState": "AQIAAAQAAAAAAAAAAIAwwA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:10:08.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:54:41.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService\\Models\\UserDto.cs",
+              "RelativeToolTip": "Models\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T11:54:24.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExternalUserService.Tests",
+              "DocumentMoniker": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService.Tests\\ExternalUserService.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\ExternalUserService.Tests\\ExternalUserService.Tests.csproj",
+              "ToolTip": "C:\\Users\\earld\\OneDrive\\Desktop\\ED\\Assignment\\ExternalUserService.Tests\\ExternalUserService.Tests.csproj*",
+              "RelativeToolTip": "..\\ExternalUserService.Tests\\ExternalUserService.Tests.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T11:50:23.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
